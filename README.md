@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin! (@austinchia)
-- 👀 I’m interested in writing data analytics blog posts
+- 👀 I’m interested in data analytics and writing data analytics blog posts
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on: data analytics projects
 - 📫 How to reach me: austin.chia.ce@gmail.com or www.linkedin.com/in/austin-chia
