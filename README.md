@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin! (@austinchia)
-- 👀 I’m interested in data analytics and writing data analytics blog posts
-- 🌱 I’m currently learning dplyr and ggplot2 on R
-- 💞️ I’m looking to collaborate on: data analytics content collaborations
+- 👀 I’m a data analyst with strong experience in technical blog posts
+- 🌱 Currently learning SQL, Spark, and Airflow
+- 💞️ I’m looking to collaborate on: data analytics projects or content collaborations
 - 📫 How to reach me: austin.chia.ce@gmail.com or www.linkedin.com/in/austin-chia
