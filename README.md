@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin! (@austinchia)
 - 👀 I’m a data analyst with strong experience in data analysis and processing. I write highly technical blog posts in the data industry.
-- 🌱 Currently learning SQL, dbt, and Airflow
+- 🌱 Currently learning dbt, Databricks, and Snowflake.
 - 🤝 I’m exploring data analyst opportunities.
 - 📫 How to reach me: austin.chia.ce@gmail.com or www.linkedin.com/in/austin-chia
