@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin! (@austinchia)
-- 👀 I’m a data analyst with strong experience in data analysis and processing. I write highly technical blog posts in the data industry.
-- 🌱 Currently learning dbt, Databricks, and Snowflake.
-- 🤝 I’m exploring data analyst opportunities.
+- 👀 I’m a data analytics and AI consultant at Any Instructor. With strong experience in data analysis and AI automation, I provide robust data and AI solutions to bring insight to organizations. I also write technical guides and tutorials in the data industry.
+- 🌱 Currently learning AI engineering tools.
+- 🤝 I’m exploring data/AI consulting opportunities.
 - 📫 How to reach me: austin.chia.ce@gmail.com or www.linkedin.com/in/austin-chia
